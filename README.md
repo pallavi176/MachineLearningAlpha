@@ -1,1 +1,1 @@
-# MahineLearningAlpha
+# MachineLearningAlpha
